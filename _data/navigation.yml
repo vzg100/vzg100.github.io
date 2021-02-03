@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "About"
-     url: https://vzg100.github.io//about/
+     url: https://vzg100.github.io/about/
   - title: "Publications"
-    url: https://vzg100.github.io//publications/
+    url: https://vzg100.github.io/publications/
+  - title: "CV"
+    url: https://vzg100.github.io/cv/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
