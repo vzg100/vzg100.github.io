@@ -1,9 +1,9 @@
 ---
-title:  "CV"
+title:  "Home"
 layout: archive
-permalink: /cv/
+permalink: /
 author_profile: true
 comments: false
 ---
 
-This is my cv page.
+This is my home page.
