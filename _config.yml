@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : #"Mark Gorelik"
   avatar           : "/assets/prof.jpg"
   bio              : "PhD student at UF, studying post transcriptional regulation in bacteria"
   location         : "UF"
