@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Mark G. Gorelik"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mark Gorelik's Site"
@@ -93,8 +93,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mark Gorelik"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : ""
+  avatar           : "/assets/prof.jpg"
   bio              : "PhD student at UF, studying post transcriptional regulation in bacteria"
   location         : "UF"
   email            :
