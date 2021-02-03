@@ -6,7 +6,7 @@ author_profile: true
 comments: false
 ---
 
-This is a list of publications & Posters
+Don't hesistate to email if you would like a PDF of a publication or have questions. However, please keep in mind that PDFs will be provided to for dissemination of academic work and may not be reposted without permission from the respective copyright holders.
 
 
 
@@ -15,9 +15,9 @@ This is a list of publications & Posters
 
 2020
 
-Pourciau, Christine, Ying-Jung Lai, **Mark Gorelik**, Paul Babitzke, and Tony Romeo. “Diverse Mechanisms and Circuitry for Global Regulation by the RNA-Binding Protein CsrA.” Frontiers in Microbiology 11 (2020). https://doi.org/10.3389/fmicb.2020.601352. 
+Pourciau, Christine, Ying-Jung Lai, **Mark Gorelik**, Paul Babitzke, and Tony Romeo. “Diverse Mechanisms and Circuitry for Global Regulation by the RNA-Binding Protein CsrA.” Frontiers in Microbiology 11 (2020). [https://doi.org/10.3389/fmicb.2020.601352](https://www.frontiersin.org/articles/10.3389/fmicb.2020.601352/full) 
 
-**Gorelik Mark G.**, Gorelik Aaron J., Kathryn K. Ridout, Akua F. Nimarko, Virginia Peisch, Shamanth R. Kuramkote, Michelle Low, et al. “Applying Machine Learning to Increase Efficiency and Accuracy of Meta-Analytic Review.” Bioarxiv, 2020. https://doi.org/10.1101/2020.10.06.314245. 
+**Gorelik Mark G.**, Gorelik Aaron J., Kathryn K. Ridout, Akua F. Nimarko, Virginia Peisch, Shamanth R. Kuramkote, Michelle Low, et al. “Applying Machine Learning to Increase Efficiency and Accuracy of Meta-Analytic Review.” Bioarxiv, 2020. [https://doi.org/10.1101/2020.10.06.314245](https://www.biorxiv.org/content/10.1101/2020.10.06.314245v1)
 
 
 # Posters 
@@ -37,8 +37,7 @@ Groso Christine M., **Mark G. Gorelik**, Christine Pourciau, Joanne Lai, and Ton
 2020
 
 Bhargava Rohan, **Mark G. Gorelik**, Alyssa C. Walker, Tony Romeo, Daniel M. Czyz. "Identifying butyrogenic bacteria in the human microbiome. National Institute of Antimicrobial Resistance Research and Education Knowledge Exchange Virtual Poster Session". Abstract/Talk/Poster. July 30, 2020.
-
-First place award in Systems Approaches to Manage Antimicrobial Resistance Session
+_First place award in Systems Approaches to Manage Antimicrobial Resistance Session_
 
 2019
 
