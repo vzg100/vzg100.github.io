@@ -9,7 +9,7 @@ comments: false
 # Education
 
 **University of Florida**  
-2018-2022 (expected). 
+2018-2022 (expected)  
 Doctoral Student in the Department of Microbiology & Cell Science. 
 
 **Tulane University**  
