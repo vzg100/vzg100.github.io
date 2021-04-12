@@ -25,12 +25,12 @@ Mentor: Dr. Tony Romeo, PhD
 ## Tulane University  
 2015-2017  
 Mentor: Dr. Ramgopal Mettu, PhD  
-- Constructed ​a​ ​robust​ and generic approach ​to​ ​classify​ ​post​ ​translational modification​ ​sites​ ​of​   ​proteins​ via class imbalance methods  
+- Constructed ​a​ ​robust​ and generic machine learning pipeline ​to​ predict ​post​ ​translational modification​ ​sites​ ​of​ proteins​ via class imbalance methods  
 [Post transcriptional Modification Prediction](https://github.com/vzg100/Post-Translational-Modification-Prediction)
 
 2015-2016  
 Mentor: Dr. Chastain Anderson, PhD  
-- Mined comments about E-Cig flavors and analyzed the sentiment of the comments to determine the popularity of flavors which pose health risks when consumed inappropriately  
+- Mined comments about E-Cig flavors and used machine learning based methods to analyze the sentiment of the comments to determine the popularity of flavors which pose health risks when consumed inappropriately  
 [Sentiment Analysis of E. Cig flavors and possible health implications](https://github.com/vzg100/ECig-Flavor-Prefrences)
 
 2014-2017  
@@ -110,5 +110,6 @@ ASM Microbe 2019
 # Teaching & Mentorship 
 ## UF
  - Microbiology Lab for majors (MCB 3020)
+ 	-  Developed a curriculum focused on teaching students the concepts and programming behind data analysis, data visualization, and the microbiome
  - Microbiology Lab (MCB 3000)
  - Microbiology Lab (MCB 2000)
