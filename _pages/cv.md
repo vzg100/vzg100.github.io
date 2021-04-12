@@ -30,13 +30,13 @@ Mentor: Dr. Ramgopal Mettu, PhD
 
 2015-2016  
 Mentor: Dr. Chastain Anderson, PhD  
-- Mined Comments about E-Cig flavors and analyzed the sentiment of the comments to determine the popularity of flavors which pose health risks when consumed inappropriately  
+- Mined comments about E-Cig flavors and analyzed the sentiment of the comments to determine the popularity of flavors which pose health risks when consumed inappropriately  
 [Sentiment Analysis of E. Cig flavors and possible health implications](https://github.com/vzg100/ECig-Flavor-Prefrences)
 
 2014-2017  
 Mentor: Dr. Janarthanan Jayawickramarajah, PhD  
-- Member​ ​of​ ​a​ ​team​ ​working​ ​on​ ​micro​ ​RNA​ ​activated​ ​delivery​ ​system. 
-	- Trained in Cell culture, HPLC, and UV-Spec 
+- Member​ ​of​ ​a​ ​team​ ​working​ ​on​ ​micro​ RNA​ ​activated​ ​delivery​ ​system. 
+	- Trained in DNA origami design, Cell culture, HPLC, and UV-Spec 
 
 ## Genia (A Roche Company)  
 2016 (Summer Internship)  
