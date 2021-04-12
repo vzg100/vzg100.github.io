@@ -16,8 +16,7 @@ Doctoral Student in the Department of Microbiology & Cell Science.
 2013-2017  
 BS in Cellular & Molecular Biology and Computer Science; Minor in Chemistry  
 
-# Research Experience 
-
+# Research Experience   
 ## University of Florida  
 2018-Present  
 Mentor: Dr. Tony Romeo, PhD  
@@ -26,11 +25,13 @@ Mentor: Dr. Tony Romeo, PhD
 ## Tulane University  
 2015-2017  
 Mentor: Dr. Ramgopal Mettu, PhD  
-- Constructed ​a​ ​robust​ and generic approach ​to​ ​classify​ ​post​ ​translational modification​ ​sites​ ​of​   ​proteins​ via class imbalance methods 
+- Constructed ​a​ ​robust​ and generic approach ​to​ ​classify​ ​post​ ​translational modification​ ​sites​ ​of​   ​proteins​ via class imbalance methods  
+[Post transcriptional Modification Prediction](https://github.com/vzg100/Post-Translational-Modification-Prediction)
 
 2015-2016  
 Mentor: Dr. Chastain Anderson, PhD  
 - Mined Comments about E-Cig flavors and analyzed the sentiment of the comments to determine the popularity of flavors which pose health risks when consumed inappropriately  
+[Sentiment Analysis of E. Cig flavors and possible health implications](https://github.com/vzg100/ECig-Flavor-Prefrences)
 
 2014-2017  
 Mentor: Dr. Janarthanan Jayawickramarajah, PhD  
