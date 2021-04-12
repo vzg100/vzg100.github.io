@@ -48,7 +48,7 @@ Mentor: Dr. Janarthanan Jayawickramarajah, PhD
 
 University of Florida Graduate School Preeminence Fellowship 
 
-# Publications. 
+# Publications  
 ## Papers
 
 **2020**
