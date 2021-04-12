@@ -38,6 +38,7 @@ Mentor: Dr. Janarthanan Jayawickramarajah, PhD
 	- Trained in Cell culture, HPLC, and UV-Spec 
 
 ## Genia (A Roche Company)  
+2016 (Summer Internship)
 - Ran​ ​experimental​ ​tests​ ​to​ ​optimize​ ​function​ ​of​ Nanopore ​sequencing​ ​chips​ ​through applying​ ​various​ ​crowding​ ​reagents,​ ​purification​ ​protocols,​ ​and​ ​cleaning​ ​protocols  
 	- Learned​ ​to​ ​operate​ ​and​ ​debug​ ​Genia​ ​sequencing​ ​chips​ ​via​ ​Bash​ ​and Python  
 	- Analyzed​ ​sequenced​ ​data​ ​for​ ​predicting​ ​extremely​ ​rare​ ​events  
