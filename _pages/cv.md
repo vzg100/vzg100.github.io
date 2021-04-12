@@ -48,7 +48,7 @@ Mentor: Dr. Janarthanan Jayawickramarajah, PhD
 
 University of Florida Graduate School Preeminence Fellowship 
 
-# Publications  
+# Publications. 
 ## Papers
 
 **2020**
@@ -88,17 +88,21 @@ ASM Microbe 2019
 # Leadership & Service 
 2018
 - UF ASM Chapter: Helped run science outreach for local schools to expose them to biology and relevant career paths
+
 2016
 - BEAST Outreach: Helped run science outreach for disadvantaged students to expose them to biology and relevant career paths
 - Secretary for BEAST ​(Tulane​ ​ASBMB​ ​chapter)
 - Tulane Jewish Leaders
 - Executive Board Member of the Cookies and Code
 - President of Tulane's ACS chapter
+
 2015
 - BEAST Outreach: Helped run science outreach for disadvantaged students to expose them to biology and relevant career paths
 - Member of Tulane Jewish Leaders
+
 2014
 - BEAST Outreach: Helped run science outreach for disadvantaged students to expose them to biology and relevant career paths
+
 2013
 - Tulane Outreach: Helped construct houses for those affected by Katrina in the 9th Ward
 
