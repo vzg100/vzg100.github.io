@@ -59,7 +59,7 @@ Mentor: Dr. Janarthanan Jayawickramarajah, PhD
 
 **2023**
 
-Pourciau C., Yakhnin H., Pannuri A., **Gorelik M.G.**, Romeo T., Babitzke P. (2023) CsrA Coordinates the Expression of Ribosome Hibernation and Anti-s Factor Proteins, &Manuscript in Preparation* 
+Pourciau C., Yakhnin H., Pannuri A., **Gorelik M.G.**, Romeo T., Babitzke P. (2023) CsrA Coordinates the Expression of Ribosome Hibernation and Anti-s Factor Proteins, *Manuscript in Preparation* 
 
 **Gorelik M.G.**, Yakhnin H., Pannuri A., Walker A.C., Pourciau C., Czyz D., Babitzke P., Romeo T. (2023) Multitier regulation of the E. coli extreme acid stress response by CsrA, *Manuscript in Preparation*
 
@@ -76,7 +76,7 @@ Nimarko A.F., Gorelik A.J., Carta K.E., **Gorelik M.G.**, Singh M.K. (2021) Neur
 
 **2020**
 
-Pourciau, Christine, Ying-Jung Lai, **Mark Gorelik**, Paul Babitzke, and Tony Romeo. “Diverse Mechanisms and Circuitry for Global Regulation by the RNA-Binding Protein CsrA.” Frontiers in Microbiology 11 (2020). [https://doi.org/10.3389/fmicb.2020.601352](https://www.frontiersin.org/articles/10.3389/fmicb.2020.601352/full) 
+Pourciau C., Lai Y., **Gorelik M.G.**, Babitzke P., Romeo T.  “Diverse Mechanisms and Circuitry for Global Regulation by the RNA-Binding Protein CsrA.” Frontiers in Microbiology 11 (2020). [https://doi.org/10.3389/fmicb.2020.601352](https://www.frontiersin.org/articles/10.3389/fmicb.2020.601352/full) 
 
 **Gorelik Mark G.**, Gorelik Aaron J., Kathryn K. Ridout, Akua F. Nimarko, Virginia Peisch, Shamanth R. Kuramkote, Michelle Low, et al. “Applying Machine Learning to Increase Efficiency and Accuracy of Meta-Analytic Review.” Bioarxiv, 2020. [https://doi.org/10.1101/2020.10.06.314245](https://www.biorxiv.org/content/10.1101/2020.10.06.314245v1)
 
