@@ -52,7 +52,7 @@ Mentor: Dr. Janarthanan Jayawickramarajah, PhD
 
 # Fellowships & Awards 
 - T32 DK077653 Pediatric Gastroenterology Research Training Program
-- - University of Florida Graduate School Preeminence Fellowship 
+- University of Florida Graduate School Preeminence Fellowship 
 
 # Publications  
 ## Papers
