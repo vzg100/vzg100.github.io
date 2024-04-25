@@ -6,24 +6,26 @@ author_profile: true
 comments: false
 ---
 
-Don't hesistate to email if you would like a PDF of a publication or have questions. However, please keep in mind that PDFs will be provided to for dissemination of academic work and may not be reposted without permission from the respective copyright holders.
+Don't hesistate to email if you would like a PDF of a publication or have questions. However, please keep in mind that while PDFs will be provided to for dissemination of academic work and may not be reposted without permission from the respective copyright holders.
 
 
 # Publications  
 ## Papers
-*Denotes cofirst authorship
+\**Denotes cofirst authorship*
 
 
 **2024**
-**Gorelik M.G.**, Yakhnin H., Pannuri A., Walker A.C., Pourciau C., Czyz D., Babitzke P., Romeo T. (2023) Multitier regulation of the E. coli extreme acid stress response by CsrA, *Journal of Bacteriology* doi: https://doi.org/10.1128/jb.00354-23 
+**Gorelik M.G.**, Yakhnin H., Pannuri A., Walker A.C., Pourciau C., Czyz D., Babitzke P., Romeo T. (2023) Multitier regulation of the E. coli extreme acid stress response by CsrA, *Journal of Bacteriology* doi: [https://doi.org/10.1128/jb.00354-23](https://doi.org/10.1128/jb.00354-23) 
+
 *Nominated as Editor’s pick*
 
 **2023**
 
-Pourciau C., Yakhnin H., Pannuri A., **Gorelik M.G.**, Romeo T., Babitzke P. (2023) CsrA Coordinates the Expression of Ribosome Hibernation and Anti-s Factor Proteins, *mBio* doi: https://doi.org/10.1128/mbio.02585-23
+Pourciau C., Yakhnin H., Pannuri A., **Gorelik M.G.**, Romeo T., Babitzke P. (2023) CsrA Coordinates the Expression of Ribosome Hibernation and Anti-s Factor Proteins, *mBio* doi: [https://doi.org/10.1128/mbio.02585-23](https://doi.org/10.1128/mbio.02585-23)
 
 
-**Gorelik M.G.**, Gorelik A.J., Ridout K.K., Nimarko A., Peisch V., Kuramkote S.R., Low M., Pan T., Singh S., Nrusimha A., Singh M. (2023) Evaluating efficiency and accuracy of deep-learning-based approaches on study selection for psychiatry systematic reviews. *Nature Mental Health* doi: https://doi.org/10.1038/s44220-023-00109-w 
+**Gorelik M.G.**, Gorelik A.J., Ridout K.K., Nimarko A., Peisch V., Kuramkote S.R., Low M., Pan T., Singh S., Nrusimha A., Singh M. (2023) Evaluating efficiency and accuracy of deep-learning-based approaches on study selection for psychiatry systematic reviews. *Nature Mental Health* doi: [https://doi.org/10.1038/s44220-023-00109-w](https://doi.org/10.1038/s44220-023-00109-w)
+
 *Selected for presentation at the Artificial Intelligence for Mental Health Seminar Series at Oxford* 
 
 
@@ -31,11 +33,11 @@ Pourciau C., Yakhnin H., Pannuri A., **Gorelik M.G.**, Romeo T., Babitzke P. (20
 
 **2022**
 
-de Crécy-lagard V., Amorin de Hegedus R., Arighi C., Babor J., Bateman A., Blaby I., Blaby-Haas C., Bridge A.J., Burley S.K., Cleveland S., Colwell L.J., Conesa A., Dallago C., Danchin A., de Waard A., Deutschbauer A., Dias R., Ding Y., Fang G., Friedberg I., Gerlt J., Goldford J., **Gorelik M.G.**, Gyori B.M., Henry C., Hutinet G., Jaroch M., Karp P.D., Kondratova L., Lu Z., Marchler-Bauer A., Martin M., McWhite C., Moghe G.D., Monaghan P., Morgat A., Mungall C.J., Natale D.A., Nelson W.C., O’Donoghue S., Orengo C., O’Toole K.H., Radivojac P., Reed C., Roberts R.J., Rodionov D., Rodionova I.A., Rudolf J.D., Saleh L., Sheynkman G., Thibaud-Nissen F., Thomas P.D., Uetz P., Vallenet D., Carter E.W., Weigele P.R., Wood V., Wood-Charlson E.M., Xu J. (2022) A roadmap for the functional annotation of protein families: a community perspective, *Database*, doi: https://doi.org/10.1093/database/baac062 
+de Crécy-lagard V., Amorin de Hegedus R., Arighi C., Babor J., Bateman A., Blaby I., Blaby-Haas C., Bridge A.J., Burley S.K., Cleveland S., Colwell L.J., Conesa A., Dallago C., Danchin A., de Waard A., Deutschbauer A., Dias R., Ding Y., Fang G., Friedberg I., Gerlt J., Goldford J., **Gorelik M.G.**, Gyori B.M., Henry C., Hutinet G., Jaroch M., Karp P.D., Kondratova L., Lu Z., Marchler-Bauer A., Martin M., McWhite C., Moghe G.D., Monaghan P., Morgat A., Mungall C.J., Natale D.A., Nelson W.C., O’Donoghue S., Orengo C., O’Toole K.H., Radivojac P., Reed C., Roberts R.J., Rodionov D., Rodionova I.A., Rudolf J.D., Saleh L., Sheynkman G., Thibaud-Nissen F., Thomas P.D., Uetz P., Vallenet D., Carter E.W., Weigele P.R., Wood V., Wood-Charlson E.M., Xu J. (2022) A roadmap for the functional annotation of protein families: a community perspective, *Database*, doi: [https://doi.org/10.1093/database/baac062](https://doi.org/10.1093/database/baac062) 
 
 **2021**
 
-Nimarko A.F., Gorelik A.J., Carta K.E., **Gorelik M.G.**, Singh M.K. (2021) Neural Correlates of Reward Processing Distinguish Healthy Youth at Familial Risk for Bipolar Disorder from Youth at Familial Risk for Major Depressive Disorder, *Translational Psychiatry* doi: https://doi.org/10.1038/s41398-022-01800-9
+Nimarko A.F., Gorelik A.J., Carta K.E., **Gorelik M.G.**, Singh M.K. (2021) Neural Correlates of Reward Processing Distinguish Healthy Youth at Familial Risk for Bipolar Disorder from Youth at Familial Risk for Major Depressive Disorder, *Translational Psychiatry* doi: [https://doi.org/10.1038/s41398-022-01800-9](https://doi.org/10.1038/s41398-022-01800-9)
 
 **2020**
 
