@@ -95,11 +95,11 @@ analytics:
 author:
   name             : #"Mark Gorelik"
   avatar           : "/assets/prof.jpg"
-  bio              : "PhD student at UF, studying post transcriptional regulation in bacteria"
-  location         : "UF"
+  bio              : "Postdoc in the Dantas Lab, looking at the micrbiome from mechanism to organism"
+  location         : "WashU"
   email            :
   links:
-    - label: "mgorelik at ufl.edu"
+    - label: "gmark at wustl.edu"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
