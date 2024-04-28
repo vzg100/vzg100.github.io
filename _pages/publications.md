@@ -25,7 +25,7 @@ Don't hesistate to email if you would like a PDF of a publication or have questi
 Pourciau C., Yakhnin H., Pannuri A., **Gorelik M.G.**, Romeo T., Babitzke P. (2023) CsrA Coordinates the Expression of Ribosome Hibernation and Anti-s Factor Proteins, *mBio* doi: [https://doi.org/10.1128/mbio.02585-23](https://doi.org/10.1128/mbio.02585-23)
 
 
-**Gorelik M.G.**, Gorelik A.J., Ridout K.K., Nimarko A., Peisch V., Kuramkote S.R., Low M., Pan T., Singh S., Nrusimha A., Singh M. (2023) Evaluating efficiency and accuracy of deep-learning-based approaches on study selection for psychiatry systematic reviews. *Nature Mental Health* doi: [https://doi.org/10.1038/s44220-023-00109-w](https://doi.org/10.1038/s44220-023-00109-w)
+\*Gorelik A.J., \***Gorelik M.G.**, Ridout K.K., Nimarko A., Peisch V., Kuramkote S.R., Low M., Pan T., Singh S., Nrusimha A., Singh M. (2023) Evaluating efficiency and accuracy of deep-learning-based approaches on study selection for psychiatry systematic reviews. *Nature Mental Health* doi: [https://doi.org/10.1038/s44220-023-00109-w](https://doi.org/10.1038/s44220-023-00109-w)
 
 *Selected for presentation at the [Artificial Intelligence for Mental Health Seminar Series at Oxford](https://talks.ox.ac.uk/talks/id/154ced7e-5eea-467c-b337-539eaec4319c/)* 
 
