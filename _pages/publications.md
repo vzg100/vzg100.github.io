@@ -22,7 +22,7 @@ Don't hesistate to email if you would like a PDF of a publication or have questi
 
 *Nominated as Editor’s pick*
 
-Rebeck O.N., Wallace M.J., Prusa J., Ning J., Evbuomwan E.M., Rengarajan S., Habmina-Griffin L.,  Kwak S., Zarah D., Tung J., Liao J., Mahmud B., Fishbein S.R.S, Tovar E.S.R., Mehta R., Wang B., **Gorelik M.G.,** Helmink B.A., Dantas G. (2024) A yeast-based oral therapeutic delivers immune checkpoint inhibitors to reduce intestinal tumor burden. *Cell Chemical Biology* [https://doi:10.1016/j.chembiol.2024.10.013](https://doi:10.1016/j.chembiol.2024.10.013)
+\*Rebeck O.N., \*Wallace M.J., \*Prusa J., Ning J., Evbuomwan E.M., Rengarajan S., Habmina-Griffin L.,  Kwak S., Zarah D., Tung J., Liao J., Mahmud B., Fishbein S.R.S, Tovar E.S.R., Mehta R., Wang B., **Gorelik M.G.,** Helmink B.A., Dantas G. (2024) A yeast-based oral therapeutic delivers immune checkpoint inhibitors to reduce intestinal tumor burden. *Cell Chemical Biology* [https://doi:10.1016/j.chembiol.2024.10.013](https://doi:10.1016/j.chembiol.2024.10.013)
 
 ### **2023**
 
