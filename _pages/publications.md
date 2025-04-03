@@ -10,7 +10,7 @@ Don't hesistate to email if you would like a PDF of a publication or have questi
 
 
 # Publications  
-## Papers
+
 \**Denotes cofirst authorship*
 
 
