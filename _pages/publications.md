@@ -19,6 +19,7 @@ Don't hesistate to email if you would like a PDF of a publication or have questi
 **Gorelik M.G.**, Yakhnin H., Pannuri A., Walker A.C., Pourciau C., Czyz D., Babitzke P., Romeo T. (2024) Multitier regulation of the E. coli extreme acid stress response by CsrA, *Journal of Bacteriology* doi: [https://doi.org/10.1128/jb.00354-23](https://doi.org/10.1128/jb.00354-23) 
 
 *Nominated as Editor’s pick*
+
 *Featured on [This Week in Microbiology](https://www.microbe.tv/twim/twim-309/)*
 
 **Gorelik M.G.**, Gorelik A.J., Fishbein S.R.S, Fehlmann T., Deepak P., Bogdan R., Dantas G., Jain U., SPARC IBD Investigators. (2024) Improving Differentiation of Crohn’s Disease and Ulcerative Colitis Proteomes through Protein-Wide Association Study Feature Selection in Machine Learning. *medRxiv* doi: [https://doi.org/10.1101/2024.11.13.24316854](https://www.medrxiv.org/content/10.1101/2024.11.13.24316854v1)
