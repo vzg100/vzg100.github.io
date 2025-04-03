@@ -16,13 +16,15 @@ Don't hesistate to email if you would like a PDF of a publication or have questi
 
 ### **2024**
 
+**Gorelik M.G.**, Gorelik A.J., Fishbein S.R.S, Fehlmann T., Deepak P., Bogdan R., Dantas G., Jain U., SPARC IBD Investigators. (2024) Improving Differentiation of Crohn’s Disease and Ulcerative Colitis Proteomes through Protein-Wide Association Study Feature Selection in Machine Learning. medRxiv doi: [https://doi.org/10.1101/2024.11.13.24316854](https://www.medrxiv.org/content/10.1101/2024.11.13.24316854v1)
+
 **Gorelik M.G.**, Yakhnin H., Pannuri A., Walker A.C., Pourciau C., Czyz D., Babitzke P., Romeo T. (2023) Multitier regulation of the E. coli extreme acid stress response by CsrA, *Journal of Bacteriology* doi: [https://doi.org/10.1128/jb.00354-23](https://doi.org/10.1128/jb.00354-23) 
 
 *Nominated as Editor’s pick*
 
-### **2023**
+Rebeck O.N., Wallace M.J., Prusa J., Ning J., Evbuomwan E.M., Rengarajan S., Habmina-Griffin L.,  Kwak S., Zarah D., Tung J., Liao J., Mahmud B., Fishbein S.R.S, Tovar E.S.R., Mehta R., Wang B., **Gorelik M.G.,** Helmink B.A., Dantas G. (2024) A yeast-based oral therapeutic delivers immune checkpoint inhibitors to reduce intestinal tumor burden. Cell Chemical Biology [https://doi:10.1016/j.chembiol.2024.10.013](https://doi:10.1016/j.chembiol.2024.10.013)
 
-Pourciau C., Yakhnin H., Pannuri A., **Gorelik M.G.**, Romeo T., Babitzke P. (2023) CsrA Coordinates the Expression of Ribosome Hibernation and Anti-s Factor Proteins, *mBio* doi: [https://doi.org/10.1128/mbio.02585-23](https://doi.org/10.1128/mbio.02585-23)
+### **2023**
 
 
 \*Gorelik A.J., \***Gorelik M.G.**, Ridout K.K., Nimarko A., Peisch V., Kuramkote S.R., Low M., Pan T., Singh S., Nrusimha A., Singh M. (2023) Evaluating efficiency and accuracy of deep-learning-based approaches on study selection for psychiatry systematic reviews. *Nature Mental Health* doi: [https://doi.org/10.1038/s44220-023-00109-w](https://doi.org/10.1038/s44220-023-00109-w)
@@ -30,6 +32,7 @@ Pourciau C., Yakhnin H., Pannuri A., **Gorelik M.G.**, Romeo T., Babitzke P. (20
 *Selected for presentation at the [Artificial Intelligence for Mental Health Seminar Series at Oxford](https://talks.ox.ac.uk/talks/id/154ced7e-5eea-467c-b337-539eaec4319c/)* 
 
 
+Pourciau C., Yakhnin H., Pannuri A., **Gorelik M.G.**, Romeo T., Babitzke P. (2023) CsrA Coordinates the Expression of Ribosome Hibernation and Anti-s Factor Proteins, *mBio* doi: [https://doi.org/10.1128/mbio.02585-23](https://doi.org/10.1128/mbio.02585-23)
 
 
 ### **2022**
