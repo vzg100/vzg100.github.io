@@ -9,7 +9,7 @@ comments: false
 Don't hesistate to email if you would like a PDF of a publication or have questions. However, please keep in mind that while PDFs will be provided to for dissemination of academic work and may not be reposted without permission from the respective copyright holders.
 
 
-# Publications  
+
 
 \**Denotes cofirst authorship*
 
