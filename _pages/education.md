@@ -21,7 +21,6 @@ BS in Cellular & Molecular Biology and Computer Science; Minor in Chemistry
 Mentor: Dr. Gautam Dantas
 - Leveraging long read sequencing approaches to interrogate the phylogenomics and mobilome of multidrug resistant organisms in patients and community-dwellers in Pakistan
 
-
 ## University of Florida  
 2018-2022  
 Mentor: Dr. Tony Romeo, PhD  
@@ -43,7 +42,7 @@ Mentor: Dr. Janarthanan Jayawickramarajah, PhD
 - Member of a team working on micro RNA activated delivery system. 
 	- Trained in DNA origami design, Cell culture, HPLC, and UV-Spec 
 
-
 # Fellowships & Awards 
 - T32 DK077653 Pediatric Gastroenterology Research Training Program
 - University of Florida Graduate School Preeminence Fellowship 
+
