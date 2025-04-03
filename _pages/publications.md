@@ -49,6 +49,6 @@ Nimarko A.F., Gorelik A.J., Carta K.E., **Gorelik M.G.**, Singh M.K. (2021) Neur
 
 Pourciau C., Lai Y., **Gorelik M.G.**, Babitzke P., Romeo T.  “Diverse Mechanisms and Circuitry for Global Regulation by the RNA-Binding Protein CsrA.” *Frontiers in Microbiology* 11 (2020). [https://doi.org/10.3389/fmicb.2020.601352](https://www.frontiersin.org/articles/10.3389/fmicb.2020.601352/full) 
 
-**Gorelik M. G.**, Gorelik Aaron J., Kathryn K. Ridout, Akua F. Nimarko, Virginia Peisch, Shamanth R. Kuramkote, Michelle Low, et al. “Applying Machine Learning to Increase Efficiency and Accuracy of Meta-Analytic Review.” *Bioarxiv*, 2020. [https://doi.org/10.1101/2020.10.06.314245](https://www.biorxiv.org/content/10.1101/2020.10.06.314245v1)
+\*Gorelik Aaron J., \***Gorelik M. G.**, Kathryn K. Ridout, Akua F. Nimarko, Virginia Peisch, Shamanth R. Kuramkote, Michelle Low, et al. “Applying Machine Learning to Increase Efficiency and Accuracy of Meta-Analytic Review.” *Bioarxiv*, 2020. [https://doi.org/10.1101/2020.10.06.314245](https://www.biorxiv.org/content/10.1101/2020.10.06.314245v1)
 
 
