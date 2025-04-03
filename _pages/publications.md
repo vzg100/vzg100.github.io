@@ -45,12 +45,18 @@ Nimarko A.F., Gorelik A.J., Carta K.E., **Gorelik M.G.**, Singh M.K. (2021) Neur
 
 ### **2020**
 
-Pourciau C., Lai Y., **Gorelik M.G.**, Babitzke P., Romeo T.  “Diverse Mechanisms and Circuitry for Global Regulation by the RNA-Binding Protein CsrA.” Frontiers in Microbiology 11 (2020). [https://doi.org/10.3389/fmicb.2020.601352](https://www.frontiersin.org/articles/10.3389/fmicb.2020.601352/full) 
+Pourciau C., Lai Y., **Gorelik M.G.**, Babitzke P., Romeo T.  “Diverse Mechanisms and Circuitry for Global Regulation by the RNA-Binding Protein CsrA.” *Frontiers in Microbiology* 11 (2020). [https://doi.org/10.3389/fmicb.2020.601352](https://www.frontiersin.org/articles/10.3389/fmicb.2020.601352/full) 
 
-**Gorelik M. G.**, Gorelik Aaron J., Kathryn K. Ridout, Akua F. Nimarko, Virginia Peisch, Shamanth R. Kuramkote, Michelle Low, et al. “Applying Machine Learning to Increase Efficiency and Accuracy of Meta-Analytic Review.” Bioarxiv, 2020. [https://doi.org/10.1101/2020.10.06.314245](https://www.biorxiv.org/content/10.1101/2020.10.06.314245v1)
+**Gorelik M. G.**, Gorelik Aaron J., Kathryn K. Ridout, Akua F. Nimarko, Virginia Peisch, Shamanth R. Kuramkote, Michelle Low, et al. “Applying Machine Learning to Increase Efficiency and Accuracy of Meta-Analytic Review.” *Bioarxiv*, 2020. [https://doi.org/10.1101/2020.10.06.314245](https://www.biorxiv.org/content/10.1101/2020.10.06.314245v1)
 
 
 ## Posters 
+
+### **2024**
+
+**Gorelik M.G.**, Gorelik A. J., Paul S.E., Deepak P., Bogdan R., Dantas G., Jain U. “Machine Learning-Based Differentiation of Crohn’s Disease and Ulcerative Colitis”, *DDW*, 2024
+
+Self W., Franke E., O’Donnell D., Karlsson M., Lelwala-Guruge J., Ryou J., **Gorelik M.G**., Wang B., Tarr P., Ances B., Dantas G., Gordon J., Holtzman D., “A gnotobiotic mouse model for characterizing the ability of human gut microbiota to modulate tau-mediated neurodegeneration”., *CSHL Neurodegenerative Diseases: Biology & Therapeutics*, 2024
 
 ### **2023**
 
@@ -75,12 +81,16 @@ Singh M., Gorelik A.J., Carta K., **Gorelik M.G.**, Chang K., Bruno J., Nimarko 
 
 ### **2024**
 
+Gorelik A.J., **Gorelik M.G.**, Ryou J., Norton S.A., Wang B., Norton S.A., Siudzinksi J.L., Spears I., Wolk M.W., Paul S. E., Karcher N.R., Willroth E.C., Oltmanns T.F., Hill P.L., Dantas G., Bogdan R “Preliminary Evidence That Gut Microbiome Composition Is Associated With Depression, Medication, and May Relate to Black-White Racial Health Disparities."" Society for Research in Psychopathology, SRP, 2024
+*Highlighted for DEI Impact*
+
+Jain S., *Gorelik M.G.*, Prusa J., Liao J., Hall L.R., Wallace M.A., Muenks C., Alvarado K., Khan M. J., Shah M., Hamza M., Ali M., Uddin I., Hussain T., Yarbough M., Burnham C.D., Dantas G. “Comparison of hybrid and short-read genomic assemblies in antibiotic resistance gene detection” Washington University in St. Louis Undergraduate Research Symposium, 2024 
 
 ### **2021**
 
-Wong Samantha, **Mark G. Gorelik**, Christine Pourciau, Joanne Lai, and Tony Romeo   "Bioinformatic analysis of the correlation between the Csr system and the fim, csg and, pga operons regulation of adhesion and biofilm formation in members of the human microbiome"
+Wong Samantha, **Mark G. Gorelik**, Christine Pourciau, Joanne Lai, and Tony Romeo   "Bioinformatic analysis of the correlation between the Csr system and the fim, csg and, pga operons regulation of adhesion and biofilm formation in members of the human microbiome" Florida Undergraduate Research Conference, 2021
 
-Groso Christine M., **Mark G. Gorelik**, Christine Pourciau, Joanne Lai, and Tony Romeo "Bioinformatic analysis of the correlation between the carbon storage regulator system and extreme acid resistance systems in members of the human microbiome"
+Groso Christine M., **Mark G. Gorelik**, Christine Pourciau, Joanne Lai, and Tony Romeo "Bioinformatic analysis of the correlation between the carbon storage regulator system and extreme acid resistance systems in members of the human microbiome" Florida Undergraduate Research Conference, 2021
 
 ### **2020**
 
