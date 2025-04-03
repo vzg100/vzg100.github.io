@@ -1,12 +1,10 @@
 ---
 title:  "Education"
 layout: archive
-permalink: /Education/
+permalink: /education/
 author_profile: true
 comments: false
 ---
-
-# Education
 
 **University of Florida**  
 2018-2022 

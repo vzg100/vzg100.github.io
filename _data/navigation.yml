@@ -6,8 +6,8 @@ main:
     url: /publications/
   - title: "Education"
     url: /education/
-   - title: "Posters & Talks"
-    url: /posters_talks/
+  - title: "Posters & Talks"
+   url: /posters_talks/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
