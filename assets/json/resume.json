@@ -3,7 +3,7 @@
     "name": "Mark G. Gorelik",
     "label": "Postdoctoral Researcher",
     "image": "",
-    "email": "mark.grg@gmail.com",
+    "email": "gmark[at]wustl.edu",
     "phone": "",
     "url": "https://vzg100.github.io",
     "summary": "Postdoctoral researcher investigating the gut-brain axis and its implications for health and disease. My work combines computational and experimental approaches to understand microbial communities and their impact on human health.",
@@ -21,13 +21,14 @@
       "name": "Washington University in St. Louis",
       "position": "Postdoctoral Researcher",
       "url": "https://www.dantas-lab.org/",
-      "startDate": "2022-01-01",
+      "startDate": "2022-10-01",
       "endDate": "",
       "summary": "Investigating the gut-brain axis and its implications for health and disease in the Dantas Lab. Leveraging long-read sequencing approaches to interrogate the phylogenomics and mobilome of multidrug resistant organisms in patients and community-dwellers in Pakistan.",
       "highlights": [
-        "Gut-brain axis research",
+        "Gut-brain axis",
         "Long-read sequencing",
-        "Antimicrobial resistance"
+        "Antimicrobial resistance",
+        "Multi-omics"
       ]
     }
   ],
@@ -35,11 +36,10 @@
     {
       "institution": "University of Florida",
       "location": "Gainesville, FL",
-      "url": "https://www.ufl.edu/",
       "area": "Microbiology",
       "studyType": "PhD",
-      "startDate": "2018-01-01",
-      "endDate": "2022-01-01",
+      "startDate": "2018-08-01",
+      "endDate": "2022-08-01",
       "score": "",
       "highlights": [
         "Post-transcriptional regulation",
@@ -53,13 +53,13 @@
       "url": "https://tulane.edu/",
       "area": "Major: Cellular & Molecular Biology and Computer Science, Minor: Chemistry",
       "studyType": "BS",
-      "startDate": "2013-01-01",
-      "endDate": "2017-01-01",
+      "startDate": "2013-08-01",
+      "endDate": "2017-08-01",
       "score": "",
     
     }
   ],
-  "awards": [],
+  "awards": ["University of Florida Graduate School Preeminence Fellowship", "NIH T32 DK077653"],
   "certificates": [],
   "publications": [],
   "skills": [
@@ -84,7 +84,7 @@
         "Genomics",
         "Long-read sequencing",
         "Metagenomics",
-        "RNA biology"
+        "RNA-Seq"
       ]
     }
   ],
