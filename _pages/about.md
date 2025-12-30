@@ -30,6 +30,6 @@ I am a postdoctoral researcher in the [Dantas Lab](https://www.dantas-lab.org/) 
 
 My research focuses on understanding the complex interactions between the microbiome and neurological systems. Currently, I am leveraging long-read sequencing approaches to interrogate the phylogenomics and mobilome of multidrug resistant organisms in patients and community-dwellers in Pakistan.
 
-I completed my PhD in Microbiology at the University of Florida (2018-2022) under the mentorship of Dr. Tony Romeo, where I examined post-transcriptional regulation of acid stress survival in *E. coli*. Prior to that, I earned my BS in Cellular & Molecular Biology and Computer Science from Tulane University (2013-2017), with a minor in Chemistry.
+I completed my PhD in Microbiology at the University of Florida (2018-2022) under the mentorship of Dr. Tony Romeo, where I examined post-transcriptional regulation of acid stress survival in _E. coli_. Prior to that, I earned my BS in Cellular & Molecular Biology and Computer Science from Tulane University (2013-2017), with a minor in Chemistry.
 
 My work combines computational and experimental approaches to understand microbial communities and their impact on human health.
