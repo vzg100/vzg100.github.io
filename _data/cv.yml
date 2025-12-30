@@ -1,0 +1,52 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Mark G. Gorelik
+    - name: Position
+      value: Postdoctoral Researcher
+    - name: Institution
+      value: Washington University in St. Louis
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Microbiology
+      institution: University of Florida, Gainesville, FL
+      year: 2018-2022
+      description:
+        - Advisor Dr. Tony Romeo
+        - Examining Post-Transcriptional Regulation of Acid Stress Survival in <i>E. coli</i>
+        
+    - title: BS in Cellular & Molecular Biology and Computer Science
+      institution: Tulane University, New Orleans, LA
+      year: 2013-2017
+      description:
+        - Minor in Chemistry
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Postdoctoral Researcher
+      institution: Washington University in St. Louis
+      year: 2022-Present
+      description:
+        - Mentor Dr. Gautam Dantas
+        - Leveraging long read sequencing approaches to interrogate the phylogenomics and mobilome of multidrug resistant organisms in patients and community-dwellers in Pakistan
+        
+    - title: Graduate Research Assistant
+      institution: University of Florida
+      year: 2018-2022
+      description:
+        - Mentor Dr. Tony Romeo, PhD
+        - Examining Post-Transcriptional Regulation of Acid Stress Survival in <i>E. coli</i>
+
+- title: Fellowships & Awards
+  type: time_table
+  contents:
+    - year: Current
+      items:
+        - T32 DK077653 Pediatric Gastroenterology Research Training Program
+    - year: 2018-2022
+      items:
+        - University of Florida Graduate School Preeminence Fellowship
