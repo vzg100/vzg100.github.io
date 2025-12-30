@@ -41,7 +41,7 @@
       "startDate": "2018-01-01",
       "endDate": "2022-01-01",
       "score": "",
-      "courses": [
+      "highlights": [
         "Post-transcriptional regulation",
         "Bacterial stress response",
         "Molecular microbiology"
@@ -51,14 +51,12 @@
       "institution": "Tulane University",
       "location": "New Orleans, LA",
       "url": "https://tulane.edu/",
-      "area": "Cellular & Molecular Biology and Computer Science",
+      "area": "Major: Cellular & Molecular Biology and Computer Science, Minor: Chemistry"
       "studyType": "BS",
       "startDate": "2013-01-01",
       "endDate": "2017-01-01",
       "score": "",
-      "courses": [
-        "Minor in Chemistry"
-      ]
+    
     }
   ],
   "awards": [],
