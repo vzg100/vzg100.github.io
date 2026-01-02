@@ -55,11 +55,13 @@
       "studyType": "BS",
       "startDate": "2013-08-01",
       "endDate": "2017-08-01",
-      "score": "",
-    
+      "score": ""
     }
   ],
-  "awards": ["University of Florida Graduate School Preeminence Fellowship", "NIH T32 DK077653"],
+  "awards": [
+    "University of Florida Graduate School Preeminence Fellowship",
+    "NIH T32 DK077653"
+  ],
   "certificates": [],
   "publications": [],
   "skills": [
