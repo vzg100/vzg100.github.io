@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postdoctoral researcher in the [Dantas Lab](https://www.dantas-lab.org/) at Washington University in St. Louis, where I investigate the gut-brain axis and its implications for health and disease.
+I am a postdoctoral researcher in the [Dantas Lab](https://www.dantaslab.org/) at Washington University in St. Louis, where I investigate the gut-brain axis and its implications for health and disease.
 
 My research focuses on understanding the complex interactions between the microbiome and neurological systems. Currently, I am leveraging long-read sequencing approaches to interrogate the phylogenomics and mobilome of multidrug resistant organisms in patients and community-dwellers in Pakistan.
 
